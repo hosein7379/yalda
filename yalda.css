@@ -1,0 +1,36 @@
+body{
+    background-color: #bedcfa;
+}
+.head1{
+    color: gold;
+    background-color: #654062; 
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+   font-size: 30px;
+}
+.music{
+    margin-left: 500px;
+}
+.video{
+    width: 500px;
+    margin-left: 445px;
+}
+
+
+.img{
+    margin-left: 560px;
+    margin-top: 30px;
+}
+.foot1{
+    background-color: #ffd66b;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.poem{
+    text-align: center;
+    font: italic small-caps bold 16px/2 cursive;
+    color: #31112c;
+}
